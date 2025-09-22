@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blu Ring Pro", "Blu Ring Pro.csproj", "{08245A21-3670-404F-AF56-48991BA6D8FE}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "bluringprofront", "..\BluRingProFront\bluringprofront.esproj", "{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08245A21-3670-404F-AF56-48991BA6D8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08245A21-3670-404F-AF56-48991BA6D8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08245A21-3670-404F-AF56-48991BA6D8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08245A21-3670-404F-AF56-48991BA6D8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8BB8CC-0282-413A-A006-58F0D3D47C45}
+	EndGlobalSection
+EndGlobal

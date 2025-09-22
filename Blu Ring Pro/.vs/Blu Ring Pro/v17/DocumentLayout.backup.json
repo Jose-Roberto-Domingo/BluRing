@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josec\\source\\repos\\Blu Ring Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08245A21-3670-404F-AF56-48991BA6D8FE}|Blu Ring Pro.csproj|c:\\users\\josec\\source\\repos\\blu ring pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08245A21-3670-404F-AF56-48991BA6D8FE}|Blu Ring Pro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08245A21-3670-404F-AF56-48991BA6D8FE}|Blu Ring Pro.csproj|c:\\users\\josec\\source\\repos\\blu ring pro\\models\\asistenciafalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08245A21-3670-404F-AF56-48991BA6D8FE}|Blu Ring Pro.csproj|solutionrelative:models\\asistenciafalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}|..\\BluRingProFront\\bluringprofront.esproj|c:\\users\\josec\\source\\repos\\bluringprofront\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}|..\\BluRingProFront\\bluringprofront.esproj|c:\\users\\josec\\source\\repos\\bluringprofront\\src\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}|..\\BluRingProFront\\bluringprofront.esproj|c:\\users\\josec\\source\\repos\\bluringprofront\\src\\views\\prenomina.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}|..\\BluRingProFront\\bluringprofront.esproj|c:\\users\\josec\\source\\repos\\bluringprofront\\src\\services\\prenominaservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCAE0D7-72CC-1352-D90E-A7788AB22B4B}|..\\BluRingProFront\\bluringprofront.esproj|c:\\users\\josec\\source\\repos\\bluringprofront\\src\\models\\prenomina.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08245A21-3670-404F-AF56-48991BA6D8FE}|Blu Ring Pro.csproj|c:\\users\\josec\\source\\repos\\blu ring pro\\controllers\\prenominacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08245A21-3670-404F-AF56-48991BA6D8FE}|Blu Ring Pro.csproj|solutionrelative:controllers\\prenominacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08245A21-3670-404F-AF56-48991BA6D8FE}|Blu Ring Pro.csproj|c:\\users\\josec\\source\\repos\\blu ring pro\\models\\prenomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08245A21-3670-404F-AF56-48991BA6D8FE}|Blu Ring Pro.csproj|solutionrelative:models\\prenomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "prenominaService.ts",
+              "DocumentMoniker": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\src\\services\\prenominaService.ts",
+              "RelativeDocumentMoniker": "..\\BluRingProFront\\src\\services\\prenominaService.ts",
+              "ToolTip": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\src\\services\\prenominaService.ts",
+              "RelativeToolTip": "..\\BluRingProFront\\src\\services\\prenominaService.ts",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-16T19:07:51.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prenomina.vue",
+              "DocumentMoniker": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\src\\views\\Prenomina.vue",
+              "RelativeDocumentMoniker": "..\\BluRingProFront\\src\\views\\Prenomina.vue",
+              "ToolTip": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\src\\views\\Prenomina.vue",
+              "RelativeToolTip": "..\\BluRingProFront\\src\\views\\Prenomina.vue",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-09-16T19:07:44.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prenomina.ts",
+              "DocumentMoniker": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\src\\models\\Prenomina.ts",
+              "RelativeDocumentMoniker": "..\\BluRingProFront\\src\\models\\Prenomina.ts",
+              "ToolTip": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\src\\models\\Prenomina.ts",
+              "RelativeToolTip": "..\\BluRingProFront\\src\\models\\Prenomina.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-16T19:07:31.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prenomina.cs",
+              "DocumentMoniker": "C:\\Users\\josec\\source\\repos\\Blu Ring Pro\\Models\\Prenomina.cs",
+              "RelativeDocumentMoniker": "Models\\Prenomina.cs",
+              "ToolTip": "C:\\Users\\josec\\source\\repos\\Blu Ring Pro\\Models\\Prenomina.cs",
+              "RelativeToolTip": "Models\\Prenomina.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:07:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrenominaController.cs",
+              "DocumentMoniker": "C:\\Users\\josec\\source\\repos\\Blu Ring Pro\\Controllers\\PrenominaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrenominaController.cs",
+              "ToolTip": "C:\\Users\\josec\\source\\repos\\Blu Ring Pro\\Controllers\\PrenominaController.cs",
+              "RelativeToolTip": "Controllers\\PrenominaController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA6wFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:07:16.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "api.ts",
+              "DocumentMoniker": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\src\\services\\api.ts",
+              "RelativeDocumentMoniker": "..\\BluRingProFront\\src\\services\\api.ts",
+              "ToolTip": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\src\\services\\api.ts",
+              "RelativeToolTip": "..\\BluRingProFront\\src\\services\\api.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-12T15:57:26.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\vite.config.ts",
+              "RelativeDocumentMoniker": "..\\BluRingProFront\\vite.config.ts",
+              "ToolTip": "C:\\Users\\josec\\source\\repos\\BluRingProFront\\vite.config.ts",
+              "RelativeToolTip": "..\\BluRingProFront\\vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-12T15:46:14.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josec\\source\\repos\\Blu Ring Pro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josec\\source\\repos\\Blu Ring Pro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:44:35.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsistenciaFalta.cs",
+              "DocumentMoniker": "C:\\Users\\josec\\source\\repos\\Blu Ring Pro\\Models\\AsistenciaFalta.cs",
+              "RelativeDocumentMoniker": "Models\\AsistenciaFalta.cs",
+              "ToolTip": "C:\\Users\\josec\\source\\repos\\Blu Ring Pro\\Models\\AsistenciaFalta.cs",
+              "RelativeToolTip": "Models\\AsistenciaFalta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:12:38.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

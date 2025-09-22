@@ -1,0 +1,12 @@
+agent:
+  authtoken: 2gnJIo6eNlKeovSBbK6TFqZmjOQ_SfgpDFXeAxmLEL3DzgqV
+
+tunnels:
+  api:
+    addr: http://localhost:7123
+    proto: http
+    subdomain: bluring-api
+  front:
+    addr: http://localhost:50035
+    proto: http
+    subdomain: bluring-front
